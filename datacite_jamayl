@@ -1,0 +1,5 @@
+#GET /DOIs
+
+$ curl https://api.datacite.org/dois/
+
+
